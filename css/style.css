@@ -18,5 +18,7 @@ body {
 }
 
 img {
-  image-orientation: 180 flip;
+  transform: scaley(-1);
+  display: block;
+  margin: auto;
 }
