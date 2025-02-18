@@ -16,3 +16,5 @@ p {
 body {
   background-color: rgb(0, 0, 255);
 }
+
+img{image-orientation: 180 flip};
